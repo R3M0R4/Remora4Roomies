@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: system-ui;
+}
+
+.hero {
+    background-color: #074f57;
+    background-image: url(open\ ocean-medium.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.container {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
